@@ -1,0 +1,6 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/vsl1", "destination": "/vsl1.html" }
+  ]
+}
