@@ -1,6 +1,8 @@
 {
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/vsl1", "destination": "/vsl1.html" }
+    { "source": "/vsl1", "destination": "/vsl1.html" },
+    { "source": "/ups1", "destination": "/ups1.html" },
+    { "source": "/downsell1", "destination": "/downsell1.html" }
   ]
 }
